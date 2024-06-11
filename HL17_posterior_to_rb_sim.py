@@ -92,7 +92,7 @@ def hdf5row_to_ttvfast_params_and_epoch(row):
 
     return params,epoch
 
-def ttv_fast_params_to_rebound_simulation(params,epoch=0.,Mstar = 1.):
+def ttv_fast_params_to_rebound_simulation(params, epoch, Mstar = 1.):
     """
     Convert a set of TTVFast parameters to a rebound simulation.
 
