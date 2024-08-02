@@ -1,0 +1,6 @@
+*.bin
+*.sa
+*.gz
+*.pyc
+*.npy
+__pycache__/HL17_posterior_to_rb_sim.cpython-311.pyc
